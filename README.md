@@ -3,6 +3,8 @@
 A simple ASP.NET Core Web API project that demonstrates how to use MongoDB Time Series Collections with C#.
 We create a time-series collection for sensor data, insert bulk readings, query by time ranges, and run quick stats (avg/min/max).
 
+[Read Article](https://medium.com/@unlu-fa/time-series-in-mongodb-using-c-6670e7af3917)
+
 ---
 
 ## Run MongoDB with Docker
